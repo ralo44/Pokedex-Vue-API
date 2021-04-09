@@ -1,4 +1,8 @@
-# pokedex
+# API Pokedex with Vuejs
+
+
+A pokemon API to retrieve data from the classic pokemon made with VUe js
+
 
 ## Project setup
 ```
